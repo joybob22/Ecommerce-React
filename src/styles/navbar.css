@@ -1,0 +1,19 @@
+#navbarContainer {
+    background-color: #121212;
+    box-shadow: 1px 1px 10px #121212;
+}
+
+.containerOverlay {
+    background-color: rgba(255,255,255,0.05);
+    display: flex;
+    justify-content: left;
+}
+
+.linkContainer {
+    padding: 15px 20px;
+}
+
+.linkContainer a {
+    color: white;
+    text-decoration: none;
+}
